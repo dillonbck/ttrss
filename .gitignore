@@ -1,0 +1,9 @@
+torrents/
+
+releaseImages/
+
+releases.db
+
+
+
+*.pyc
